@@ -36,8 +36,8 @@ A secure web-based electronic voting platform designed to support digital voting
 **Technologies:**
 - HTML/CSS
 - JavaScript
-- PHP / Database Technologies
-(or update with your actual technologies)
+- PHP
+- Database - mysql
 
 ---
 
@@ -51,8 +51,10 @@ A web-based system developed to simplify rental property management.
 - User management
 
 **Technologies:**
-- Web Technologies
-- Database Management Systems
+- HTML/CSS
+- JavaScript
+- PHP
+- Database - mysql
 
 ---
 
@@ -92,6 +94,7 @@ Tools:
 - Jupyter Notebook
 - Google Earth Engine
 - Git
+- Visual Studio Code
 
 ## Publications
 
