@@ -104,7 +104,7 @@ Tools:
 
 ## Contact
 
-Google Scholar: https://scholar.google.com/citations?view_op=list_works&hl=en&user=TK1glJAAAAAJ
-ORCID:
-LinkedIn: www.linkedin.com/in/nimshi-sangar-34a6a9301
+- Google Scholar: https://scholar.google.com/citations?view_op=list_works&hl=en&user=TK1glJAAAAAJ
+- ORCID:
+- LinkedIn: www.linkedin.com/in/nimshi-sangar-34a6a9301
 
